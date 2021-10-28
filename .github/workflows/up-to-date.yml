@@ -1,5 +1,5 @@
 name: Up-to-date
-on: [pull-request]
+on: [pull_request]
 jobs:
   up-to-date:
     runs-on: ubuntu-latest
