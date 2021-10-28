@@ -1,7 +1,0 @@
-name: Up-to-date
-on: [pull_request]
-jobs:
-  up-to-date:
-    runs-on: ubuntu-latest
-    steps:
-      - run: Up-to-date

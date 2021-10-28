@@ -1,0 +1,8 @@
+name: Up-to-date-check
+on: [pull_request]
+
+jobs:
+  uptodate:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo Up-to-date
