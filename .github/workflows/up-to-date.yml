@@ -1,0 +1,7 @@
+name: Up-to-date
+on: [pull-request]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: Up-to-date
