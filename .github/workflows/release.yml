@@ -37,7 +37,7 @@ jobs:
           files: | 
             README.md
           draft: false
-          prerelease: ${{ needs.setup.outputs.prerelease }}
+          prerelease: true
           tag_name: unstable
           target_commitish: ${{ github.ref_name }}
           fail_on_unmatched_files: true
