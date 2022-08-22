@@ -7,4 +7,4 @@ test2
 fisk3
 
 
-fiske fiske hat
+fiske fiske hat også abemad
