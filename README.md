@@ -7,3 +7,4 @@ test2
 fisk3
 
 
+fiske fiske hat
